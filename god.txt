@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8$全国秒播
+zheshi,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8$全国秒播
 CCTV2,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8$全国秒播
 CCTV3,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8$全国秒播
 CCTV4,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8$全国秒播
